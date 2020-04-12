@@ -1,4 +1,4 @@
-<img src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" alt="Signal Processing" data-canonical-src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" width="400" />
+<img src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" alt="Signal Processing" data-canonical-src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" width="400" align="center" />
 
 # Covid, Cough Classification, Audio feature extraction Research Papers
 
