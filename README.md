@@ -1,7 +1,10 @@
-# Covid and Cough Research Papers
+# Covid, Cough Classification, Audio feature extraction Research Papers
+
+
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/coughresearch/cough-research-papers/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/coughresearch/cough-research-papers)](https://github.com/coughresearch/cough-research-papers/commits/master)
+
 
 
 # cough-research-papers
