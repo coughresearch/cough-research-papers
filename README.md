@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" alt="Signal Processing" data-canonical-src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" width="200" />
+<p align="center">
+  <img src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" alt="Signal Processing">
+</p>
 
 # Covid, Cough Classification, Audio feature extraction Research Papers
 
@@ -6,6 +8,7 @@
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/coughresearch/cough-research-papers/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/coughresearch/cough-research-papers)](https://github.com/coughresearch/cough-research-papers/commits/master)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 
