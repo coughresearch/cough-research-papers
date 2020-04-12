@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" alt="Signal Processing">
+  <img src="https://github.com/coughresearch/cough-research-papers/blob/master/Images/WAVE.png" alt="Signal Processing" width="300">
 </p>
 
 # Covid, Cough Classification, Audio feature extraction Research Papers
