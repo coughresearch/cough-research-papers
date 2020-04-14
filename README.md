@@ -19,6 +19,7 @@ This repo contains specifications and research papers related to Speech and Soun
 | [Continuous Sound Collection Using Smartphones and Machine Learning to Measure Cough] | 2019 |
 | [Towards device-agnostic mobile cough detection with convolutional neural networks]() | 2019 |
 | [Robust Detection of Audio-Cough Events Using Local Hu Moments]() | 2018 |
+| [Analysis of Cough Sound for Pneumonia Detection Using Wavelet Transform and Statistical Parameters] | 2018 |
 | [Optimum Features Computation Using Genetic Algorithm for Wet and Dry Cough Classification] | 2018 |
 | [Analysis of Cough Sound for Pneumonia Detection Using Wavelet Transform and Statistical Parameters] | 2017 |
 | [Dog cough sound classification using ANN and the selected relevant features from discrete wavelet transform] | 2017 |
@@ -38,7 +39,7 @@ This repo contains specifications and research papers related to Speech and Soun
 | [A real time cough monitor for classification of various pulmonary diseases] | 2012 |
 | [Automated algorithm for Wet/Dry cough sounds classification] | 2012 |
 | [Feature Extraction for The Differentiation of Dry and Wet Cough Sounds] | 2011 |
-| [] |  |
+
 
 
 
