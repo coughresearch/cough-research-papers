@@ -26,6 +26,7 @@ This repo contains specifications and research papers related to Speech and Soun
 | [Use of cough sounds for diagnosis and screening of pulmonary disease] | 2017 |
 | [Cough sound analysis for diagnosing croup in pediatric patients using biologically inspired features] | 2017 |
 | [A Cough Speech Sounds Database] | 2016 |
+| [Discriminant feature vectors for characterizing ailment cough vs. simulated cough] | 2016 |
 | [A novel method for wet/dry cough classification in pediatric population] | 2016 |
 | [A symptom surveillance system in high spatial resolution using smartphones] | 2016 |
 | [Deep Neural Networks for Identifying Cough Cough Sounds] | 2016 |
